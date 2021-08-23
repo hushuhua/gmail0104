@@ -21,7 +21,7 @@
         <mapper-starter.version>1.2.3</mapper-starter.version>
         <commoms-lang3.version>3.7</commoms-lang3.version>
         <httpClient.version>4.5.5</httpClient.version>
-        <jsoup.version>1.11.2</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <batic-ext.versio>1.9.1</batic-ext.versio>
         <xml-apis.version>1.4.01</xml-apis.version>
         <nekohtml.version>1.9.20</nekohtml.version>
